@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://mysitecarmen-zk4e.vercel.app"
 theme = "hugo-ht"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -56,9 +56,9 @@ footnotereturnlinkcontents = "↩"
   MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
   MathJaxVersion = "2.7.5"
   favicon = "media/hugo-logo.png"
-  GithubRepo = "https://github.com/USERNAME/REPONAME"
+  GithubRepo = "https://github.com/Carmenk1210/mysitecarmen"
   copyright = "&copy;"
-  copyrightYearStart = "2020"
+  copyrightYearStart = "2025"
   blogDirName = "posts"
   logo = { url = "hugo-logo.png", width = 50.0, height = 50.0, alt = "Hugo-ht" }
 
@@ -72,7 +72,7 @@ footnotereturnlinkcontents = "↩"
     contentDir = "content/en"
 
     [languages.en.params]
-      description = "Personal website of Your Name"
+      description = "Personal website of Carmen Guo"
       licenseURL = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     
     [languages.en.taxonomies]
