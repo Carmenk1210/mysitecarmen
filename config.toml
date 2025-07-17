@@ -1,5 +1,5 @@
 baseURL = "https://mysitecarmen-zk4e.vercel.app"
-theme = "hugo-ht"
+theme = "hugo-ck"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
